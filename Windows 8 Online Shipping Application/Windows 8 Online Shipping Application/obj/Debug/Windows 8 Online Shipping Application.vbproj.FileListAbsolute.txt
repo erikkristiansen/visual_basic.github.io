@@ -1,0 +1,21 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.exe.config
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.exe.config
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.exe
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.pdb
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.xml
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows_8_Online_Shipping_Application.frmWindowsAppCalc.resources
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows_8_Online_Shipping_Application.Resources.resources
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.vbproj.GenerateResource.Cache
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.exe
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.xml
+D:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.pdb
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.exe.config
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.exe
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.xml
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.pdb
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.exe
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.pdb
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\bin\Debug\Windows 8 Online Shipping Application.xml
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows_8_Online_Shipping_Application.frmWindowsAppCalc.resources
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows_8_Online_Shipping_Application.Resources.resources
+E:\Windows 8 Online Shipping Application\Windows 8 Online Shipping Application\obj\Debug\Windows 8 Online Shipping Application.vbproj.GenerateResource.Cache

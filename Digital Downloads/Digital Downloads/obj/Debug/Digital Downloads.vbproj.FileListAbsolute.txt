@@ -1,0 +1,11 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Digital Downloads\bin\Debug\Digital Downloads.exe.config
+D:\Digital Downloads\Digital Downloads\bin\Debug\Digital Downloads.exe.config
+D:\Digital Downloads\Digital Downloads\obj\Debug\Digital_Downloads.frmDownloads.resources
+D:\Digital Downloads\Digital Downloads\obj\Debug\Digital_Downloads.Resources.resources
+D:\Digital Downloads\Digital Downloads\obj\Debug\Digital Downloads.vbproj.GenerateResource.Cache
+D:\Digital Downloads\Digital Downloads\bin\Debug\Digital Downloads.exe
+D:\Digital Downloads\Digital Downloads\bin\Debug\Digital Downloads.pdb
+D:\Digital Downloads\Digital Downloads\bin\Debug\Digital Downloads.xml
+D:\Digital Downloads\Digital Downloads\obj\Debug\Digital Downloads.exe
+D:\Digital Downloads\Digital Downloads\obj\Debug\Digital Downloads.xml
+D:\Digital Downloads\Digital Downloads\obj\Debug\Digital Downloads.pdb

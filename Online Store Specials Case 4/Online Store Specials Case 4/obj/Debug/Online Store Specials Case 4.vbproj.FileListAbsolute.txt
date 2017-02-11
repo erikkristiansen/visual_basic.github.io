@@ -1,0 +1,2 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Online Store Specials Case 4\bin\Debug\Online Store Specials Case 4.exe.config
+D:\Online Store Specials Case 4\Online Store Specials Case 4\bin\Debug\Online Store Specials Case 4.exe.config

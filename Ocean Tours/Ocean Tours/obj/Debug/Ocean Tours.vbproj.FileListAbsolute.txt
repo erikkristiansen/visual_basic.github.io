@@ -1,0 +1,32 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\bin\Debug\Ocean Tours.exe.config
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\bin\Debug\Ocean Tours.exe
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\bin\Debug\Ocean Tours.pdb
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\bin\Debug\Ocean Tours.xml
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\obj\Debug\Ocean_Tours.Resources.resources
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\obj\Debug\Ocean_Tours.SplashScreen1.resources
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\obj\Debug\Ocean Tours.vbproj.GenerateResource.Cache
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\obj\Debug\Ocean Tours.exe
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\obj\Debug\Ocean Tours.xml
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Ocean Tours\obj\Debug\Ocean Tours.pdb
+D:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe.config
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.exe
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.xml
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.pdb
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.frmTours.resources
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.Resources.resources
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.SplashScreen1.resources
+D:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbproj.GenerateResource.Cache
+D:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe
+D:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.pdb
+D:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.xml
+E:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe.config
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.exe
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.xml
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.pdb
+E:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.exe
+E:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.pdb
+E:\Ocean Tours\Ocean Tours\bin\Debug\Ocean Tours.xml
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.frmTours.resources
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.Resources.resources
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean_Tours.SplashScreen1.resources
+E:\Ocean Tours\Ocean Tours\obj\Debug\Ocean Tours.vbproj.GenerateResource.Cache

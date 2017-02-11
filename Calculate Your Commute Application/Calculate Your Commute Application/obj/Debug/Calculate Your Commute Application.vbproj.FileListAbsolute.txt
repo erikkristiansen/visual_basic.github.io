@@ -1,0 +1,12 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Calculate Your Commute Application\bin\Debug\Calculate Your Commute Application.exe.config
+D:\Calculate Your Commute Application\Calculate Your Commute Application\bin\Debug\Calculate Your Commute Application.exe.config
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate_Your_Commute_Application.frmCalculateCommute.resources
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate_Your_Commute_Application.Resources.resources
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate_Your_Commute_Application.SplashScreen1.resources
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate Your Commute Application.vbproj.GenerateResource.Cache
+D:\Calculate Your Commute Application\Calculate Your Commute Application\bin\Debug\Calculate Your Commute Application.exe
+D:\Calculate Your Commute Application\Calculate Your Commute Application\bin\Debug\Calculate Your Commute Application.pdb
+D:\Calculate Your Commute Application\Calculate Your Commute Application\bin\Debug\Calculate Your Commute Application.xml
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate Your Commute Application.exe
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate Your Commute Application.xml
+D:\Calculate Your Commute Application\Calculate Your Commute Application\obj\Debug\Calculate Your Commute Application.pdb

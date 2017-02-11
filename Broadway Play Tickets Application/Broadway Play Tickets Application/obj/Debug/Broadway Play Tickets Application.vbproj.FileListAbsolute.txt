@@ -1,0 +1,33 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.exe.config
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.exe
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.pdb
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.xml
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.frmBroadwayTickets.resources
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.Resources.resources
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.SplashScreen1.resources
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.vbproj.GenerateResource.Cache
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.exe
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.xml
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.pdb
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.exe.config
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.exe
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.xml
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.pdb
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.exe
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.pdb
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.xml
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.frmBroadwayTickets.resources
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.Resources.resources
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.SplashScreen1.resources
+D:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.vbproj.GenerateResource.Cache
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.exe.config
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.exe
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.xml
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.pdb
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.exe
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.pdb
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\bin\Debug\Broadway Play Tickets Application.xml
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.frmBroadwayTickets.resources
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.Resources.resources
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway_Play_Tickets_Application.SplashScreen1.resources
+E:\Broadway Play Tickets Application\Broadway Play Tickets Application\obj\Debug\Broadway Play Tickets Application.vbproj.GenerateResource.Cache

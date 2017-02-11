@@ -1,0 +1,34 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe.config
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe.config
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.pdb
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.xml
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.frmDepreciation.resources
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.frmDisplayInventory.resources
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.Resources.resources
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.vbproj.GenerateResource.Cache
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.exe
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.xml
+D:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.pdb
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe.config
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.exe
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.xml
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.pdb
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.pdb
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.xml
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.frmDepreciation.resources
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.frmDisplayInventory.resources
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.Resources.resources
+J:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.vbproj.GenerateResource.Cache
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe.config
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.exe
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.xml
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.pdb
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.exe
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.pdb
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\bin\Debug\Trends Menswear Inventory Depreciation Application.xml
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.frmDepreciation.resources
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.frmDisplayInventory.resources
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends_Menswear_Inventory_Depreciation_Application.Resources.resources
+E:\Trends Menswear Inventory Depreciation Application\Trends Menswear Inventory Depreciation Application\obj\Debug\Trends Menswear Inventory Depreciation Application.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\choisington\AppData\Local\Temporary Projects\Online Store Specials\bin\Debug\Online Store Specials.exe.config
+C:\Users\choisington\Documents\Visual Studio 2012\Projects\Online Store Specials\Online Store Specials\bin\Debug\Online Store Specials.exe.config
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\bin\Debug\Online Store Specials.exe.config
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\bin\Debug\Online Store Specials.exe
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\bin\Debug\Online Store Specials.pdb
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\bin\Debug\Online Store Specials.xml
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\obj\Debug\Online_Store_Specials.frmOnline.resources
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\obj\Debug\Online_Store_Specials.Resources.resources
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\obj\Debug\Online Store Specials.vbproj.GenerateResource.Cache
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\obj\Debug\Online Store Specials.exe
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\obj\Debug\Online Store Specials.xml
+D:\Project 2 Templates-1\Online Store Specials\Online Store Specials\obj\Debug\Online Store Specials.pdb

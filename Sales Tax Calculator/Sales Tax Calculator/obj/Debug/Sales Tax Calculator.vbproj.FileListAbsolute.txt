@@ -1,0 +1,21 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.exe.config
+D:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.exe.config
+D:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.exe
+D:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.pdb
+D:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.xml
+D:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales_Tax_Calculator.frmSalesTaxCalculator.resources
+D:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales_Tax_Calculator.Resources.resources
+D:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.vbproj.GenerateResource.Cache
+D:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.exe
+D:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.xml
+D:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.pdb
+E:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.exe.config
+E:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.exe
+E:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.xml
+E:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.pdb
+E:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.exe
+E:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.pdb
+E:\Sales Tax Calculator\Sales Tax Calculator\bin\Debug\Sales Tax Calculator.xml
+E:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales_Tax_Calculator.frmSalesTaxCalculator.resources
+E:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales_Tax_Calculator.Resources.resources
+E:\Sales Tax Calculator\Sales Tax Calculator\obj\Debug\Sales Tax Calculator.vbproj.GenerateResource.Cache

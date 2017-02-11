@@ -1,0 +1,21 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Taxi Fare Application\bin\Debug\Taxi Fare Application.exe.config
+D:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.exe.config
+D:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.exe
+D:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.pdb
+D:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.xml
+D:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi_Fare_Application.Resources.resources
+D:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi_Fare_Application.taxifareapplication.resources
+D:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.vbproj.GenerateResource.Cache
+D:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.exe
+D:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.xml
+D:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.pdb
+E:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.exe.config
+E:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.exe
+E:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.xml
+E:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.pdb
+E:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.exe
+E:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.pdb
+E:\Taxi Fare Application\Taxi Fare Application\bin\Debug\Taxi Fare Application.xml
+E:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi_Fare_Application.Resources.resources
+E:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi_Fare_Application.taxifareapplication.resources
+E:\Taxi Fare Application\Taxi Fare Application\obj\Debug\Taxi Fare Application.vbproj.GenerateResource.Cache

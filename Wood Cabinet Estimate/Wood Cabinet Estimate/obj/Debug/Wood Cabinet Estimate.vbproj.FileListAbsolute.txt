@@ -1,0 +1,11 @@
+C:\Users\Erik Kristiansen\AppData\Local\Temporary Projects\Wood Cabinet Estimate\bin\Debug\Wood Cabinet Estimate.exe.config
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\bin\Debug\Wood Cabinet Estimate.exe.config
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\obj\Debug\Wood_Cabinet_Estimate.frmWoodCabinets.resources
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\obj\Debug\Wood_Cabinet_Estimate.Resources.resources
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\obj\Debug\Wood Cabinet Estimate.vbproj.GenerateResource.Cache
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\bin\Debug\Wood Cabinet Estimate.exe
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\bin\Debug\Wood Cabinet Estimate.pdb
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\bin\Debug\Wood Cabinet Estimate.xml
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\obj\Debug\Wood Cabinet Estimate.exe
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\obj\Debug\Wood Cabinet Estimate.xml
+D:\Wood Cabinet Estimate\Wood Cabinet Estimate\obj\Debug\Wood Cabinet Estimate.pdb

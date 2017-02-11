@@ -1,0 +1,16 @@
+﻿Event Planning Document
+Program Name:               Developer:                 Object:                 Date:
+Taxi Fare Applicaiton        Erik Kristiansen        frmTaxiFare                Oct 1, 2015
+                                                        Applicaiton
+Object:                        Event Trigger:         Event Processing:                         
+btnDisplayFare                Tap or Click                Displays fare after user enters number 
+                                                        of miles
+
+
+
+
+btnClear                        Tap or Click                Clears the textbox and focuses 
+                                                        the cursor in the empty text box
+
+
+btnExit                        Tap or Click                Closes the program
